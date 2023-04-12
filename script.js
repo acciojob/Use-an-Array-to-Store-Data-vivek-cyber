@@ -1,1 +1,1 @@
-yourArray=["sdcd",1,true,[x,yf,ef],{key1:"value1"}]
+let yourArray=["sdcd",1,true,[x,yf,ef],{key1:"value1"}]
