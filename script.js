@@ -1,1 +1,6 @@
-let yourArray=["sdcd",1,true,[x,yf,ef],{key1:"value1"}]
+let yourArray=[]
+yourArray.push("hello")
+yourArray.push(123)
+yourArray.push(true)
+yourArray.push("axsc")
+yourArray.push(12345)
